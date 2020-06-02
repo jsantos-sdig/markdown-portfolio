@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![My pretty bat boi](https://www.clipartmax.com/png/middle/269-2694184_cat-anime-gacha-chibi-anime-bat-transparent.png)
